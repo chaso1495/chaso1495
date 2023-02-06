@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **chaso1495/chaso1495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaso1495&layout=compact&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=winluck)](https://solved.ac/winluck)
 
 ![chaso1495's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaso1495&show_icons=true&theme=radical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=winluck)](https://solved.ac/winluck)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaso1495&layout=compact&theme=radical)
