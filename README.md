@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaso1495&layout=compact&theme=radical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=winluck)](https://solved.ac/winluck)
+<img width="300px" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=winluck">
